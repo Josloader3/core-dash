@@ -1,6 +1,6 @@
 # CoreDash — Admin Dashboard
 
-**CoreDash** es un panel de administración SPA moderno construido con Angular 22, diseñado con arquitectura zoneless, componentes standalone y estado reactivo basado en Signals.
+**CoreDash** es un panel de administración SPA moderno construido con Angular 22, diseñado con arquitectura zoneless, componentes standalone y estado reactivo basado en Signals. 
 
 ## Stack técnico
 
