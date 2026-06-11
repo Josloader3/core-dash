@@ -30,6 +30,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/core-dash/",
               "budgets": [
                 {
                   "type": "initial",
